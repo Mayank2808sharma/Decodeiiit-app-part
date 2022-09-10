@@ -1,0 +1,22 @@
+body {
+  background-color: #f3f0f0;
+  height: 100vh;
+}
+#graph4 {
+  width: 70vh;
+  height: 70vh;
+  position: absolute;
+  top: 130vh;
+}
+#graph3 {
+  width: 70vh;
+  height: 70vh;
+  position: absolute;
+  top: 60vh;
+}
+#graph1 {
+  width: 90vh;
+  height: 60vh;
+  position: absolute;
+  left: -30;
+}
